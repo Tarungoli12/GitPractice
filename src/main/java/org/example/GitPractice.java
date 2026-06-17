@@ -1,6 +1,6 @@
 package org.example;
 
-public class PracticeBranch {
+public class GitPractice {
     public static void main(String[] args) {
         System.out.println("Hello and welcome!");
         for (int i = 1; i <= 5; i++) {

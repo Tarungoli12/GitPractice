@@ -1,6 +1,6 @@
 package org.example;
 
-public class DevelopBranch {
+public class GitDevelop {
     public static void main(String[] args) {
         System.out.println("Develop Branch");
     }
